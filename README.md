@@ -53,3 +53,12 @@ Population, GDP per capita, and energy intensity are kept on historical trend. C
 - **Carbon intensity** is the slowest-improving factor and a major bottleneck
 
 Scenario modelling shows that meeting ambitious climate targets requires carbon intensity to decline significantly faster than historical averages.
+
+## Repository
+```
+.
+├── data/                     # Datasets used for modelling (population, GDP, energy, CO2, etc.)
+├── figures/                  # Generated plots and visualizations
+├── emissionsmodelling.ipynb  # Main notebook (LMDI + scenario modelling)
+└── README.md                 # Project overview and documentation
+```
